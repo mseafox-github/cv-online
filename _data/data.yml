@@ -8,15 +8,15 @@ sidebar:
 
     # Profile information
     name: Hyejoon Min (Eddie)
-    tagline: Systems Analyst
+    tagline: IT Systems Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: eddie@hyejoonmin.com
-    phone: +1 832 705 1211
-    timezone: America/Central Timezone
     citizenship: US Citizen
+    phone: +1 832 705 1211
+    email: eddie@hyejoonmin.com
     website: hyejoonmin.com #do not add http://
+    timezone: America/Central Timezone
     linkedin:
     xing:
     github: mseafox-github
@@ -35,11 +35,11 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: # French
-          level: # Professional
+        - idiom: Korean
+          level: Native
 
-        - idiom: # Spanish
-          level: # Professional
+        - idiom: Japanese
+          level: Native
 
     interests:
       title: Interests
@@ -107,9 +107,9 @@ experiences:
           - Provided business intelligence reports and insights surrounding business requirements leveraging cloud operations: cost
             and optimization, governance, security and identity, etc.
           - Onboarded internal teams and customers.
-          #  - Bullet point
-          #  - Bullet point
-      - role: Sr Application Support-III / Sr Systems Admin-III / Jr Systems Admin-II / Helpdesk / Internship
+
+      - role: Sr Application Support-III / Sr Systems Admin-III /
+              Jr Systems Admin-II / Helpdesk / Internship
         time: 2012 - 2019
         company: Raytheon / Collins Aerospace, Houston, TX, USA
         details: |
@@ -125,35 +125,35 @@ experiences:
           - Automation skills with Puppet, Chef, Ansible, Docker, Kubernetes.
           - Install, configure and maintaining web services.
           - Experience with Apache, Nginx.
-          #  - Bullet point
-          #  - Bullet point
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Cloud Technologies
         level: 92%
-
+        details: AWS, Azure, IBM Cloud
       - name: Cyber Security
-        level: 79%
-
+        level: 84%
+        details: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW
       - name: Applications
         level: 80%
-
+        details: EC2, S3, Amplify, Lightsail, Elastic Beanstalk, CloudFront, CloudFormation, CloudWatch
       - name: Programming Languages
-        level: 67%
-
+        level: 82%
+        details: Shell/Bash, DOS, Python, Ruby, YAML, Powershell, Perl, VBScript
       - name: Database
         level: 72%
-
+        details: Pervasive, SQL, PostgresSQL, MySQL, Aurora, DynamoDB, ElastiCache, RDS
       - name: Storage
-        level: 88%
-
+        level: 76%
+        details: Synology, QNAP, Cisco Unified Computing System, Dell, HP
       - name: Operating Systems
         level: 91%
-      
+        details: CentOS, Linux, Mac, Windows, Windows Server, ESXi 6.0+
       - name: Network
-        level: 63%
+        level: 70%
+        details: Radius, Meraki, Cisco, Ubiquiti
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
