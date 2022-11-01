@@ -15,8 +15,8 @@ sidebar:
     citizenship: US Citizen
     phone: +1 832 705 1211
     email: eddie@hyejoonmin.com
-    website: hyejoonmin.com #do not add http://
     timezone: America/Central Timezone
+    website: hyejoonmin.com #do not add http://
     linkedin:
     github: mseafox-github
     xing:
@@ -129,14 +129,14 @@ experiences:
         time:
         company:
         details: |
-          Cloud Technologies: AWS, Azure, IBM Cloud, Microsoft 0365.
-          Cyber Security: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW.
-          Applications: EC2, S3, Amplify, Lightsail, Elastic Beanstalk, CloudFront, CloudFormation, CloudWatch.
-          Programming Languages: Shell/Bash, DOS, Python, Ruby, YAML, Powershell, Perl, VBScript.
-          Database: Pervasive, SQL, PostgresSQL, MySQL, Aurora, DynamoDB, ElastiCache, RDS.
-          Storage: Synology, QNAP, Cisco Unified Computing System, Dell, HP.
-          Operating Systems: CentOS, Linux, Mac, Windows, Windows Server, ESXi 6.0+.
-          Network: Radius, Meraki, Cisco, Ubiquiti.
+          - Cloud Technologies: AWS, Azure, IBM Cloud, Microsoft 0365.
+          - Cyber Security: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW.
+          - Applications: EC2, S3, Amplify, Lightsail, Elastic Beanstalk, CloudFront, CloudFormation, CloudWatch.
+          - Programming Languages: Shell/Bash, DOS, Python, Ruby, YAML, Powershell, Perl, VBScript.
+          - Database: Pervasive, SQL, PostgresSQL, MySQL, Aurora, DynamoDB, ElastiCache, RDS.
+          - Storage: Synology, QNAP, Cisco Unified Computing System, Dell, HP.
+          - Operating Systems: CentOS, Linux, Mac, Windows, Windows Server, ESXi 6.0+.
+          - Network: Radius, Meraki, Cisco, Ubiquiti.
 
 skills:
     title: Skills &amp; Proficiency

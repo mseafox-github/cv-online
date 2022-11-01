@@ -19,15 +19,15 @@
     </li>
     {% endif %}
 
-    {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
-    </li>
-    {% endif %}
-
     {% if sidebar.timezone %}
     <li class="timezone"><i class="fas fa-clock"></i>
       <a href="">{{ sidebar.timezone }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.website %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
