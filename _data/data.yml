@@ -132,7 +132,7 @@ skills:
     toolset:
       - name: Cloud Technologies
         level: 92%
-        details: AWS, Azure, IBM Cloud
+        details: AWS, Azure, IBM Cloud, Microsoft 0365
       - name: Cyber Security
         level: 84%
         details: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW
