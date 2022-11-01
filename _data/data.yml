@@ -125,7 +125,7 @@ experiences:
           - Install, configure and maintaining web services.
           - Experience with Apache, Nginx.
 
-      - role: Skillset
+      - role:
         time:
         company:
         details: |
