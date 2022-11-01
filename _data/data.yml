@@ -95,48 +95,48 @@ experiences:
         time: 2019 - 2020
         company: Meriplex Communications, Houston, TX, USA
         details: |
-        - Monitored endpoint detection and response.
-        - Managed privileged access management.
-        - Performed active directory scanning for health check and permissions report.
-        - Engaged in alert monitoring, managing detection and response.
-        - Oversaw cyber security NOC/SOC as a service with NGFW.
-        - Administered Microsoft 0365 applications and exchange servers.
-        - Delivered device management using Azure.
-        - Maintained application hosting, AD/DC and DNS using AWS.
-        - Routinely upgraded server hardware/software installation and maintenance tasks for on-premise Cloud infrastructure.
-        - Provided business intelligence reports and insights surrounding business requirements leveraging cloud operations: cost
+          - Monitored endpoint detection and response.
+          - Managed privileged access management.
+          - Performed active directory scanning for health check and permissions report.
+          - Engaged in alert monitoring, managing detection and response.
+          - Oversaw cyber security NOC/SOC as a service with NGFW.
+          - Administered Microsoft 0365 applications and exchange servers.
+          - Delivered device management using Azure.
+          - Maintained application hosting, AD/DC and DNS using AWS.
+          - Routinely upgraded server hardware/software installation and maintenance tasks for on-premise Cloud infrastructure.
+          - Provided business intelligence reports and insights surrounding business requirements leveraging cloud operations: cost
           and optimization, governance, security and identity, etc.
-        - Onboarded internal teams and customers.
+          - Onboarded internal teams and customers.
 
       - role: Sr Application Support-III / Sr Systems Admin-III / Jr Systems Admin-II / Helpdesk / Internship
         time: 2012 - 2019
         company: Raytheon / Collins Aerospace, Houston, TX, USA
         details: |
-        - Leading development and operations processes with different support teams worldwide.
-        - Developing Continuous Integration / Continuous Deployment roadmap and implementing to the project.
-        - Play a significant role in establishing operational processes for a fast-growing distributed cloud platform.
-        - Improve deployment process within AWS, Azure, IBM Cloud.
-        - AWS services administration: IAM, VPC, Route 53, EC2, S3, CodeBuild, CodeDeploy, RDS, CloudWatch,
-          CloudFormation, CloudFront.
-        - Improve automated test and simulation frameworks Jenkins, Jira, Slack.
-        - Managing 1000+ servers in a distributed and highly available critical infrastructure.
-        - CentOS administration and performance tuning.
-        - Automation skills with Puppet, Chef, Ansible, Docker, Kubernetes.
-        - Install, configure and maintaining web services.
-        - Experience with Apache, Nginx.
+          - Leading development and operations processes with different support teams worldwide.
+          - Developing Continuous Integration / Continuous Deployment roadmap and implementing to the project.
+          - Play a significant role in establishing operational processes for a fast-growing distributed cloud platform.
+          - Improve deployment process within AWS, Azure, IBM Cloud.
+          - AWS services administration: IAM, VPC, Route 53, EC2, S3, CodeBuild, CodeDeploy, RDS, CloudWatch,
+            CloudFormation, CloudFront.
+          - Improve automated test and simulation frameworks Jenkins, Jira, Slack.
+          - Managing 1000+ servers in a distributed and highly available critical infrastructure.
+          - CentOS administration and performance tuning.
+          - Automation skills with Puppet, Chef, Ansible, Docker, Kubernetes.
+          - Install, configure and maintaining web services.
+          - Experience with Apache, Nginx.
 
       - role: Skillset
         time:
         company:
         details: |
-        Cloud Technologies: AWS, Azure, IBM Cloud, Microsoft 0365.
-        Cyber Security: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW.
-        Applications: EC2, S3, Amplify, Lightsail, Elastic Beanstalk, CloudFront, CloudFormation, CloudWatch.
-        Programming Languages: Shell/Bash, DOS, Python, Ruby, YAML, Powershell, Perl, VBScript.
-        Database: Pervasive, SQL, PostgresSQL, MySQL, Aurora, DynamoDB, ElastiCache, RDS.
-        Storage: Synology, QNAP, Cisco Unified Computing System, Dell, HP.
-        Operating Systems: CentOS, Linux, Mac, Windows, Windows Server, ESXi 6.0+.
-        Network: Radius, Meraki, Cisco, Ubiquiti.
+          Cloud Technologies: AWS, Azure, IBM Cloud, Microsoft 0365.
+          Cyber Security: CrowdStrike, ZScaler, CyberArk, PingCastle, CriticalStart, Fortisandbox NGFW.
+          Applications: EC2, S3, Amplify, Lightsail, Elastic Beanstalk, CloudFront, CloudFormation, CloudWatch.
+          Programming Languages: Shell/Bash, DOS, Python, Ruby, YAML, Powershell, Perl, VBScript.
+          Database: Pervasive, SQL, PostgresSQL, MySQL, Aurora, DynamoDB, ElastiCache, RDS.
+          Storage: Synology, QNAP, Cisco Unified Computing System, Dell, HP.
+          Operating Systems: CentOS, Linux, Mac, Windows, Windows Server, ESXi 6.0+.
+          Network: Radius, Meraki, Cisco, Ubiquiti.
 
 skills:
     title: Skills &amp; Proficiency
